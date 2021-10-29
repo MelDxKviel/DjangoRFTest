@@ -13,20 +13,20 @@
 ## Download repository
 
  ```
-    cd ~
-    git clone https://github.com/MelDxKviel/DjangoRFTest.git
-	cd DjangoRFTest
+cd ~
+it clone https://github.com/MelDxKviel/DjangoRFTest.git
+cd DjangoRFTest
  ```
 
 ## Collect the image with the command:
 ```
-    docker build -t django_test_app .
+docker build -t django_test_app .
 ```
 
 ## Launch image
 
 ```
-    docker run -p 8000:8000 django_test_app
+docker run -p 8000:8000 django_test_app
 ```
 
 Go to the url address: http://0.0.0.0:8000/ and enjoy the app :)
