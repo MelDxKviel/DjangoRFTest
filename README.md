@@ -37,7 +37,7 @@ List of all types of news -- /api/types
 
 List of all news -- /api/articles
 
-List of list of news of a certain type -- /api/articles/type/*type_id*
+List of news by a certain type -- /api/articles/type/*type_id*
 
 Certain article by id -- /api/articles/*article_id*
 
