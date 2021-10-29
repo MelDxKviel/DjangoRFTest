@@ -30,3 +30,15 @@
 ```
 
 Go to the url address: http://0.0.0.0:8000/ and enjoy the app :)
+
+# API Documentation
+
+List of all types of news -- /api/types
+
+List of all news -- /api/articles
+
+List of list of news of a certain type -- /api/articles/type/*type_id*
+
+Certain article by id -- /api/articles/*article_id*
+
+Certain type by id -- /api/types/*type_id*
