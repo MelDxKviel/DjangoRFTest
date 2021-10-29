@@ -14,7 +14,7 @@
 
  ```
 cd ~
-it clone https://github.com/MelDxKviel/DjangoRFTest.git
+git clone https://github.com/MelDxKviel/DjangoRFTest.git
 cd DjangoRFTest
  ```
 
