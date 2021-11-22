@@ -38,10 +38,10 @@ List of all types of news -- /api/types
 
 List of all news -- /api/articles
 
-List of news by a certain type -- /api/articles/type/*type_id*
+List of news by a type -- /api/articles/type/*type_id*
 
 Create new article -- /api/articles/create
 
-Certain article by id -- /api/articles/*article_id*
+Article by id -- /api/articles/*article_id*
 
-Certain type by id -- /api/types/*type_id*
+Type by id -- /api/types/*type_id*
