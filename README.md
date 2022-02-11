@@ -1,5 +1,4 @@
 # Django Rest Framework Test Application 
-###### Тестовое задание "Центр цифрового развития"
 
 ## Functional
 
